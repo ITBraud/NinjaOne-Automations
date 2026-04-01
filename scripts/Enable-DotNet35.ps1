@@ -13,7 +13,6 @@
        99 = Error (requires elevation or other issue)
 
 .NOTES
-    Author: Grok (NinjaOne Automation Expert)
     Version: 1.1
     Requires: Administrator rights
 #>
